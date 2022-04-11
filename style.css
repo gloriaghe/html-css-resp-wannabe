@@ -113,6 +113,7 @@ img {
   #why .row>.second,
   #why .row>.third{
     width: 100%;
+    float: none;
   }
 
   #lezioni .row .right{
@@ -160,7 +161,7 @@ img {
   #steps .row>.central,
   #steps .row>.right{
     width: 50%;
-    margin 0 auto
+    margin 0 auto;
   }
 
   #why .row>.first,
